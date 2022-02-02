@@ -10,10 +10,10 @@ var require_html = __commonJS({
     <meta property="og:description" content="$description">
     <meta property="article:author" content="$author">
     <!-- $image_url / link preview image is set using og:image property -->
-    <meta property="og:image" content="https://res.cloudinary.com/pipedreamin/image/upload/v1563319174/icons/HTTP_2x_pwu9ax.svg">
+    <meta property="og:image" content="https://i.ibb.co/Cz30DGk/49-41186-32-10427.jpg">
     <meta property="telegram:channel" content="@cor_bee">
     <!-- site_verification property must be present, but @content could be empty (no IVBot-side verification for now?) -->
-    <meta property="tg:site_verification" content="g7j8/rPFXfhyrq5q0QQV7EsYWv4=">
+    <meta data-rh="true" property="al:android:app_name" content="Medium" />
     <!-- published_time property must be present, but you could leave @content empty if $published_date isn't needed -->
     <meta property="article:published_time" content="2020-02-03T23:10:04.654Z">
 </head>
